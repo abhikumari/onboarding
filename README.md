@@ -25,3 +25,10 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+------------------------------------------------------
+# onboarding
+four step onboarding page
+I have created this page using angular material using mat-stepper and mat-card.
+used FlexLayout for styling
+some of the coponenet here can be make common compoenent
+
